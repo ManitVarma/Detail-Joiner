@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(orange 40%, rgb(128, 0, 128) 60%);
+    width: 100%;
+    height: 800px;
+    color: white;
+    text-align: center;
+}
+#details{
+    background-color: aqua;
+    color: orange;
+    box-shadow: 10px 10px grey;
+    width: fit-content;
+}
+#JoinedDetails{
+    background-color: cyan;
+    color: rgb(255, 166, 0);
+    box-shadow: 10px 10px grey;
+    width: fit-content;
+}
